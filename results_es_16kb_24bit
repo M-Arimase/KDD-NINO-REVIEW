@@ -1,0 +1,24 @@
+[Message] Read 27390281 items
+[Message] Test = 26301901105
+[Dataset]: /root/Datasets/Datasets/equinix-nyc.dirA/equinix-nyc.dirA.20180315-130000.UTC.anon.pcap
+number of pkt: 27390282
+number of key: 893215
+Nino Sketch
+
+AAE (Frequency Estimation): 15.8139
+ARE (Frequency Estimation): 1.67128
+Over Estimation: 0.350446
+
+Precision (Heavy Hitter Detection) 0.985141
+Recall (Heavy Hitter Detection) 0.845124
+ARE (Heavy Hitter Detection) 0.0307794
+Elastic Sketch
+
+AAE (Frequency Estimation): 15.2006
+ARE (Frequency Estimation): 0.997354
+Over Estimation: 2.2391e-06
+
+Precision (Heavy Hitter Detection) 1
+Recall (Heavy Hitter Detection) 0.864882
+ARE (Heavy Hitter Detection) 0.0239144
+number of HH: 1569
